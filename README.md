@@ -1,2 +1,2 @@
-# eventManager
-Student ID 00014725, Event Manager Web Application
+This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00014725
+
