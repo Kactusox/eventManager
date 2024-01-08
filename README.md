@@ -5,3 +5,4 @@ STUDENT ID = 00014725
 To determine the topic for portfolio:
 1. 14725 / 20 = 736.25
 2. The remainder 14725 % 20 = 5
+Therefore, my assigned topic is number 5, which corresponds to "Events Manager" in the list of topics.
